@@ -4,7 +4,8 @@
 #### Remember to change file paths in any file you open from here.
 
 ### nightcafeClaimingPoints.py
-##### Automatically claim points at ```https://nightcafe.studio```
+##### Automatically claim points at ```https://nightcafe.studio``` through chromium automation.
+##### Remember to fill in your ```login``` and ```password```
 
 
  
